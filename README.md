@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nripendro Biswas</h1>
-- 🌱 I’m currently learning **Deep learning and Machine learning**
+### Hi there 👋, I'm Nripendro Biswas
+![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/315896181_1451295635399664_8425650171317359104_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9534ce&_nc_ohc=--_nzkeLQIYAX_x5p62&_nc_ht=scontent.fdac138-1.fna&oh=00_AfB-5EwFrMJRkkUzWrmYFm-epndEsgv0baA0wwLEXTVatw&oe=65A60AB3)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nripendrobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nripendrobiswas" height="30" width="40" /></a>
-<a href="https://fb.com/nripendrobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nripendrobiswas" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on AQI prediction project . 
+- 🌱 I’m currently learning Deep learning and ML 
+- 👯 I’m looking to collaborate on research / projects in Electronics,Machine Learing 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nripendrobiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nripendrobiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nripendrobiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nripendro_biswas/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nripendrobiswas&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nripendrobiswas)  
+
