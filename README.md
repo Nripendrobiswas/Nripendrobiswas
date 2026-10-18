@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nripendro Biswas</h1>
+<!-- Top Header Structure with Adaptive Theme Icon in Right Corner -->
+<table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="left" style="border: none; padding: 0; background: transparent;">
+      <h1 style="margin: 0;">Hi 👋, I'm Nripendro Biswas</h1>
+    </td>
+    <td align="right" style="border: none; padding: 0; background: transparent; vertical-align: middle;">
+      <!-- GitHub Theme Adaptive Icon -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://iconify.design">
+        <img src="https://iconify.design" width="32" height="32" alt="Theme Selector" style="max-width: 100%;">
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Aspiring ML researcher and Engineering student.</h3>
 
-<div class="badge-row">
+<div class="badge-row" align="center">
   <a href="https://github.com/Nripendrobiswas"><img src="https://img.shields.io/badge/GitHub-360893?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/nripendrobiswas"><img src="https://img.shields.io/badge/LinkedIn-0047AD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://kaggle.com/nripendro"><img src="https://img.shields.io/badge/Kaggle-1F1F15?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
@@ -14,7 +29,6 @@
   <a href="mailto:nripendro58@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a>
   <a href="https://www.facebook.com/nripendro.biswas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/nien_bi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-      
 </div>
 
 ## About
@@ -83,14 +97,24 @@
   </table>
 </div>
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> </a> 
+</p>
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nripendrobiswas&show_icons=true&locale=en&layout=compact" alt="nripendrobiswas" /></p>
+### How this works:
+* **The HTML `<picture>` tag** acts as a background detector interface. 
+* When a user loads your profile in GitHub **Dark Mode**, it dynamically triggers the `(prefers-color-scheme: dark)` selector rule to display a **crisp white animated sun icon**.
+* When viewed in GitHub **Light Mode**, it falls back to displaying a **solid black animated crescent moon icon** to fit your light-profile background theme gracefully.
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nripendrobiswas&show_icons=true&locale=en" alt="nripendrobiswas" /></p> -->
+<FollowUp>
+Would you like to swap this icon out for a different style (like a **toggle switch graphic** or a **minimalistic dark-mode/light-mode label button**), or do you want to add custom **hyperlinks** to it?
+</FollowUp>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nripendrobiswas&" alt="nripendrobiswas" /></p>
+<ActionUnit query="github readme profile adaptive dark mode widgets templates" placement="bottom" intent="informational" />
