@@ -1,4 +1,6 @@
-<h1 align="center">Nripendro Biswas</h1>
+<p align="center">
+  <img src="assets/floating-name.svg" alt="Nripendro Biswas" width="640">
+</p>
 
 <p align="center">
   <b>Aspiring ML Researcher · Engineering Student</b><br>
@@ -43,9 +45,9 @@ For my thesis, I investigate lead-free perovskite solar-cell structures using SC
 
 | Area | What I work on |
 | :-- | :-- |
-|  **Energy Forecasting** | Long-term electricity demand forecasting with deep-learning and classical models |
-|  **Perovskite Solar Cells** | Multilayer lead-free device structures, parameter optimisation, ML-based prediction of photovoltaic characteristics |
-|  **Model Development** | Modified deep-learning architectures for time-series forecasting |
+| ⚡ **Energy Forecasting** | Long-term electricity demand forecasting with deep-learning and classical models |
+| ☀️ **Perovskite Solar Cells** | Multilayer lead-free device structures, parameter optimisation, ML-based prediction of photovoltaic characteristics |
+| 🧠 **Model Development** | Modified deep-learning architectures for time-series forecasting |
 
 **Forecasting models:** TiDE · TFT · TSMixer · N-BEATS · N-HiTS · XGBoost · Random Forest · Linear models
 
