@@ -47,36 +47,44 @@
 - 👨‍💻 All of my projects are available at [nripendrobiswas.github.io](nripendrobiswas.github.io)
 - 📫 How to reach me **nripendro4200@gmail.com**
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; background-color: #f6f8fa; margin-bottom: 16px;">
-  <!-- Header -->
-  <div style="font-size: 16px; font-weight: 600; margin-bottom: 12px; color: #24292f;">
+<div style="font-family: serif; border: 1px solid #731212; border-radius: 8px; padding: 16px; background-color: #fffdfc; margin-bottom: 16px; color: #1a0202;">
+  <!-- Main Header -->
+  <div style="font-size: 16px; font-weight: bold; margin-bottom: 14px;">
     Publication Stats (2026):
   </div>
-  <!-- Grid Container -->
-  <div style="display: flex; flex-direction: column; gap: 12px;">
-    <!-- Box 1: Conferences -->
-    <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 12px; background-color: #ffffff;">
-      <div style="font-size: 14px; font-weight: 600; margin-bottom: 8px; color: #24292f;">
-        Conferences: <u>Total 7, 5 First Author</u>
-      </div>
-      <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #dafbe1; color: #1a7f37; border: 1px solid rgba(26,127,55,0.2);">IEEE: 5</span>
-        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #ddf4ff; color: #0969da; border: 1px solid rgba(9,105,218,0.2);">Others: 2</span>
-      </div>
-    </div>
-    <!-- Box 2: Journals -->
-    <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 12px; background-color: #ffffff;">
-      <div style="font-size: 14px; font-weight: 600; margin-bottom: 8px; color: #24292f;">
-        Journals: <u>Total 1, 1 First Author</u>
-      </div>
-      <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #ddf4ff; color: #0969da; border: 1px solid rgba(9,105,218,0.2);">Q1 : 1</span>
-        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #dafbe1; color: #1a7f37; border: 1px solid rgba(26,127,55,0.2);">Results in Engineering: 1</span>
-      </div>
-    </div>
-
-  </div>
+  <!-- Row Container using HTML Table for precise column splits -->
+  <table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <!-- Box 1: Conferences -->
+      <td style="width: 50%; padding: 0 8px 0 0; border: none; vertical-align: top; background: transparent;">
+        <div style="border: 1px solid #731212; border-radius: 6px; padding: 14px 16px; background-color: #ffffff; min-height: 80px;">
+          <div style="font-size: 15px; font-weight: bold; margin-bottom: 12px;">
+            Conferences: <u>Total 7, 5 First Author</u>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">IEEE: 5</span>
+            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">Others: 2</span>
+          </div>
+        </div>
+      </td>
+      <!-- Box 2: Journals -->
+      <td style="width: 50%; padding: 0 0 0 8px; border: none; vertical-align: top; background: transparent;">
+        <div style="border: 1px solid #731212; border-radius: 6px; padding: 14px 16px; background-color: #ffffff; min-height: 80px;">
+          <div style="font-size: 15px; font-weight: bold; margin-bottom: 12px;">
+            Journals: <u>Total 1, 1 First Author</u>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">Q1 : 1</span>
+            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">Results in Engineering: 1</span>
+          </div>
+        </div>
+      </td>
+      
+    </tr>
+  </table>
+  
 </div>
+
 
 
 
