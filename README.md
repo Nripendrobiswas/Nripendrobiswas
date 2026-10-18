@@ -81,7 +81,6 @@
       </td>
     </tr>
   </table>
-  
 </div>
 
 
@@ -92,6 +91,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nripendrobiswas&show_icons=true&locale=en&layout=compact" alt="nripendrobiswas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nripendrobiswas&show_icons=true&locale=en" alt="nripendrobiswas" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nripendrobiswas&show_icons=true&locale=en" alt="nripendrobiswas" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nripendrobiswas&" alt="nripendrobiswas" /></p>
