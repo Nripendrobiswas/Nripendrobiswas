@@ -47,11 +47,38 @@
 - 👨‍💻 All of my projects are available at [nripendrobiswas.github.io](nripendrobiswas.github.io)
 - 📫 How to reach me **nripendro4200@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nripendrobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nripendrobiswas" height="30" width="40" /></a>
-<a href="https://kaggle.com/nripendrobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nripendrobiswas" height="30" width="40" /></a>
-</p>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; background-color: #f6f8fa; margin-bottom: 16px;">
+  <!-- Header -->
+  <div style="font-size: 16px; font-weight: 600; margin-bottom: 12px; color: #24292f;">
+    Publication Stats (2026):
+  </div>
+  <!-- Grid Container -->
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    <!-- Box 1: Conferences -->
+    <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 12px; background-color: #ffffff;">
+      <div style="font-size: 14px; font-weight: 600; margin-bottom: 8px; color: #24292f;">
+        Conferences: <u>Total 7, 5 First Author</u>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #dafbe1; color: #1a7f37; border: 1px solid rgba(26,127,55,0.2);">IEEE: 5</span>
+        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #ddf4ff; color: #0969da; border: 1px solid rgba(9,105,218,0.2);">Others: 2</span>
+      </div>
+    </div>
+    <!-- Box 2: Journals -->
+    <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 12px; background-color: #ffffff;">
+      <div style="font-size: 14px; font-weight: 600; margin-bottom: 8px; color: #24292f;">
+        Journals: <u>Total 1, 1 First Author</u>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #ddf4ff; color: #0969da; border: 1px solid rgba(9,105,218,0.2);">Q1 : 1</span>
+        <span style="display: inline-block; padding: 3px 8px; font-size: 12px; font-weight: 500; line-height: 18px; border-radius: 2em; background-color: #dafbe1; color: #1a7f37; border: 1px solid rgba(26,127,55,0.2);">Results in Engineering: 1</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
