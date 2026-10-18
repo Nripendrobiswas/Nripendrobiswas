@@ -47,7 +47,7 @@
 - 👨‍💻 All of my projects are available at [nripendrobiswas.github.io](nripendrobiswas.github.io)
 - 📫 How to reach me **nripendro4200@gmail.com**
 
-<div style="font-family: serif; border: 1px solid #731212; border-radius: 8px; padding: 16px; background-color: #fffdfc; margin-bottom: 16px; color: #1a0202;">
+<div style="font-family: serif; border: 1px solid #731212; border-radius: 8px; padding: 16px; background-color: #fffdfc; margin-bottom: 16px; color: #db2016;">
   <!-- Main Header -->
   <div style="font-size: 16px; font-weight: bold; margin-bottom: 14px;">
     Publication Stats (2026):
