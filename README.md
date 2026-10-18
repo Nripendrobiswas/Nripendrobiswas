@@ -1,18 +1,4 @@
-<table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <!-- Left Column: Title -->
-    <td align="left" style="border: none; padding: 0; background: transparent; vertical-align: middle;">
-      <h1 style="margin: 0; display: inline-block;">Hi 👋, I'm Nripendro Biswas</h1>
-    </td>
-    <!-- Right Column: Theme Selector Icons -->
-    <td align="right" style="border: none; padding: 0; background: transparent; vertical-align: middle;">
-      <!-- Sun icon shown ONLY in Dark Mode -->
-      <img src="https://iconify.design" width="32" height="32" alt="Dark Mode Active" style="vertical-align: middle; max-width: 100%;">
-      <!-- Moon icon shown ONLY in Light Mode -->
-      <img src="https://iconify.design" width="32" height="32" alt="Light Mode Active" style="vertical-align: middle; max-width: 100%;">
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Nripendro Biswas</h1><h3 align="center">
 
 
 <h3 align="center">Aspiring ML researcher and Engineering student.</h3>
@@ -107,15 +93,3 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> </a> 
 </p>
-```
-
-### How this works:
-* **The HTML `<picture>` tag** acts as a background detector interface. 
-* When a user loads your profile in GitHub **Dark Mode**, it dynamically triggers the `(prefers-color-scheme: dark)` selector rule to display a **crisp white animated sun icon**.
-* When viewed in GitHub **Light Mode**, it falls back to displaying a **solid black animated crescent moon icon** to fit your light-profile background theme gracefully.
-
-<FollowUp>
-Would you like to swap this icon out for a different style (like a **toggle switch graphic** or a **minimalistic dark-mode/light-mode label button**), or do you want to add custom **hyperlinks** to it?
-</FollowUp>
-
-<ActionUnit query="github readme profile adaptive dark mode widgets templates" placement="bottom" intent="informational" />
