@@ -1,9 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nripendro Biswas</h1>
 <h3 align="center">Aspiring ML researcher and Engineering student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nripendrobiswas&label=Profile%20views&color=0e75b6&style=flat" alt="nripendrobiswas" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## About
+ <p>
+      I work at the intersection of <b> <u>Healthcare and AI, Machine learning, Time-series forecasting, and Computational energy research</u></b>, 
+      with a particular interest in developing data-driven models for complex real-world systems. 
+      My research has focused on two complementary problems: <u>improving long-term electricity demand forecasting and 
+      accelerating the design and optimisation of perovskite solar cells</u>. <b>For my thesis</b>, I investigate lead-free 
+      perovskite solar-cell structures using device-level simulation and machine learning to understand and 
+      optimise their photovoltaic performance. The work is <b>conducted under the supervision of 
+        <a href="https://www.sust.edu/departments/eee/faculty/mohona-eee@sust.edu"><u> Mohona Das Gupta</u></a></b>, 
+      Lecturer, Department of Electrical and Electronic Engineering, 
+      Shahjalal University of Science and Technology (SUST).
+    </p>
+    <p>
+      I have hands-on experience with SCAPS-1D for solar-cell device simulation and optimisation, alongside <u>Python, NumPy, 
+      Pandas, scikit-learn, TensorFlow/Keras, and Darts for machine-learning and time-series modelling</u>.
+      My forecasting work includes models such as TiDE, TFT, TSMixer, N-BEATS, N-HiTS, XGBoost, Random Forest, and 
+      linear models, while my recent research involves developing modified deep-learning architectures for improved forecasting.
+      On the photovoltaic side, I work with multilayer perovskite device structures, 
+      parameter optimisation, performance evaluation, and ML-based prediction of photovoltaic characteristics.
+    </p>
+    <p>
+      <strong>I am seeking a <b>funded graduate research position starting in 2027</b>, 
+      particularly in <u>`machine learning`, `time-series forecasting`, `healthcare and AI`, 
+      `computational energy systems`, or `AI-assisted materials and photovoltaic research`</u></strong>.
+    </p>
 
 - 🔭 I’m currently working on **a research project named GA-TiDE**
 
