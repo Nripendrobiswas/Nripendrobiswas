@@ -1,95 +1,98 @@
-<h1 align="center">Hi 👋, I'm Nripendro Biswas</h1><h3 align="center">
+<h1 align="center">Nripendro Biswas</h1>
 
+<p align="center">
+  <b>Aspiring ML Researcher · Engineering Student</b><br>
+  Machine Learning · Time-Series Forecasting · Computational Energy · Perovskite Solar Cells
+</p>
 
-<h3 align="center">Aspiring ML researcher and Engineering student.</h3>
+<p align="center">
+  <a href="https://nripendrobiswas.github.io/"><img src="https://img.shields.io/badge/Portfolio-360893?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="resources/pdf/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-1F5F5B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+  <a href="mailto:nripendro4200@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<div class="badge-row" align="center">
-  <a href="https://github.com/Nripendrobiswas"><img src="https://img.shields.io/badge/GitHub-360893?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/nripendrobiswas"><img src="https://img.shields.io/badge/LinkedIn-0047AD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://kaggle.com/nripendro"><img src="https://img.shields.io/badge/Kaggle-1F1F15?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://x.com/nripendro4200"><img src="https://img.shields.io/badge/Twitter-1F1F15?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:nripendro4200@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a>
-  <a href="resources/pdf/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-1F5F5B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV (PDF)"></a>
-  <a href="https://scholar.google.com/citations?user=jf5Q8UgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-1F1F15?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=jf5Q8UgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.semanticscholar.org/author/Nripendro-Biswas/2353262144"><img src="https://img.shields.io/badge/Semantic_Scholar-033A50?style=flat-square&logo=semanticscholar&logoColor=white" alt="Semantic Scholar"></a>
-  <a class="badge-orcid" href="https://orcid.org/0009-0008-9670-0867"><img src="https://img.shields.io/badge/ORCID-white?style=flat-square&logo=orcid&logoColor=A6CE39&labelColor=white&color=white" alt="ORCID"></a>
-  <a href="mailto:nripendro58@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a>
+  <a href="https://orcid.org/0009-0008-9670-0867"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://linkedin.com/in/nripendrobiswas"><img src="https://img.shields.io/badge/LinkedIn-0047AD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kaggle.com/nripendro"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://x.com/nripendro4200"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.facebook.com/nripendro.biswas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/nien_bi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
+</p>
+
+---
 
 ## About
- <p>
-      I work at the intersection of <b> <u>Healthcare and AI, Machine learning, Time-series forecasting, and Computational energy research</u></b>, 
-      with a particular interest in developing data-driven models for complex real-world systems. 
-      My research has focused on two complementary problems: <u>improving long-term electricity demand forecasting and 
-      accelerating the design and optimisation of perovskite solar cells</u>. <b>For my thesis</b>, I investigate lead-free 
-      perovskite solar-cell structures using device-level simulation and machine learning to understand and 
-      optimise their photovoltaic performance. The work is <b>conducted under the supervision of 
-        <a href="https://www.sust.edu/departments/eee/faculty/mohona-eee@sust.edu"><u> Mohona Das Gupta</u></a></b>, 
-      Lecturer, Department of Electrical and Electronic Engineering, 
-      Shahjalal University of Science and Technology (SUST).
-    </p>
-    <p>
-      I have hands-on experience with SCAPS-1D for solar-cell device simulation and optimisation, alongside <u>Python, NumPy, 
-      Pandas, scikit-learn, TensorFlow/Keras, and Darts for machine-learning and time-series modelling</u>.
-      My forecasting work includes models such as TiDE, TFT, TSMixer, N-BEATS, N-HiTS, XGBoost, Random Forest, and 
-      linear models, while my recent research involves developing modified deep-learning architectures for improved forecasting.
-      On the photovoltaic side, I work with multilayer perovskite device structures, 
-      parameter optimisation, performance evaluation, and ML-based prediction of photovoltaic characteristics.
-    </p>
-    
-```I am seeking a funded graduate research position starting in 2027, particularly in machine learning, time-series forecasting, healthcare and AI, computational energy systems, or AI-assisted materials and photovoltaic research . ```
 
-## Notes
-- 🔭 I’m currently working on **a research project named GA-TiDE**
-- 🌱 I’m currently learning **PINN**
-- 👯 I’m looking to collaborate on **Research projetcs**
-- 👨‍💻 All of my projects are available at [nripendrobiswas.github.io](nripendrobiswas.github.io)
-- 📫 How to reach me **nripendro4200@gmail.com**
+I work at the intersection of **healthcare and AI, machine learning, time-series forecasting, and computational energy research**, building data-driven models for complex real-world systems.
 
-<div style="font-family: serif; border: 1px solid #731212; border-radius: 8px; padding: 16px; background-color: #fffdfc; margin-bottom: 16px; color: #db2016;">
-  <!-- Main Header -->
-  <div style="font-size: 16px; font-weight: bold; margin-bottom: 14px;">
-    Publication Stats (2026):
-  </div>
-  <!-- Row Container using HTML Table for precise column splits -->
-  <table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <!-- Box 1: Conferences -->
-      <td style="width: 50%; padding: 0 8px 0 0; border: none; vertical-align: top; background: transparent;">
-        <div style="border: 1px solid #731212; border-radius: 6px; padding: 14px 16px; background-color: #ffffff; min-height: 80px;">
-          <div style="font-size: 15px; font-weight: bold; margin-bottom: 12px;">
-            Conferences: <u>Total 7, 5 First Author</u>
-          </div>
-          <div style="display: flex; gap: 8px;">
-            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">IEEE: 5</span>
-            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">Others: 2</span>
-          </div>
-        </div>
-      </td>
-      <!-- Box 2: Journals -->
-      <td style="width: 50%; padding: 0 0 0 8px; border: none; vertical-align: top; background: transparent;">
-        <div style="border: 1px solid #731212; border-radius: 6px; padding: 14px 16px; background-color: #ffffff; min-height: 80px;">
-          <div style="font-size: 15px; font-weight: bold; margin-bottom: 12px;">
-            Journals: <u>Total 1, 1 First Author</u>
-          </div>
-          <div style="display: flex; gap: 8px;">
-            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">Q1 : 1</span>
-            <span style="display: inline-block; padding: 4px 10px; font-size: 13px; font-weight: bold; border-radius: 4px; background-color: #800000; color: #ffffff;">Results in Engineering: 1</span>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+My research addresses two complementary problems:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> </a> 
-</p> 
+- **Long-term electricity demand forecasting**, including modified deep-learning architectures for improved accuracy.
+- **Accelerating the design and optimisation of perovskite solar cells**, combining device-level simulation with machine learning.
+
+For my thesis, I investigate lead-free perovskite solar-cell structures using SCAPS-1D simulation and ML to understand and optimise their photovoltaic performance. The work is supervised by [Mohona Das Gupta](https://www.sust.edu/departments/eee/faculty/mohona-eee@sust.edu), Lecturer, Department of Electrical and Electronic Engineering, Shahjalal University of Science and Technology (SUST).
+
+> 🎓 **Seeking a funded graduate research position starting in 2027** in machine learning, time-series forecasting, healthcare and AI, computational energy systems, or AI-assisted materials and photovoltaic research.
+
+---
+
+## Research Focus
+
+| Area | What I work on |
+| :-- | :-- |
+| ⚡ **Energy Forecasting** | Long-term electricity demand forecasting with deep-learning and classical models |
+| ☀️ **Perovskite Solar Cells** | Multilayer lead-free device structures, parameter optimisation, ML-based prediction of photovoltaic characteristics |
+| 🧠 **Model Development** | Modified deep-learning architectures for time-series forecasting |
+
+**Forecasting models:** TiDE · TFT · TSMixer · N-BEATS · N-HiTS · XGBoost · Random Forest · Linear models
+
+---
+
+## Currently
+
+- 🔭 Working on a research project: **GA-TiDE**
+- 🌱 Learning **Physics-Informed Neural Networks (PINNs)**
+- 🤝 Open to collaboration on **research projects**
+- 👨‍💻 All projects: [nripendrobiswas.github.io](https://nripendrobiswas.github.io/)
+
+---
+
+## Publications (2026)
+
+| | Total | First Author | Breakdown |
+| :-- | :-: | :-: | :-- |
+| 📄 **Conferences** | 7 | 5 | IEEE: 5 · Others: 2 |
+| 📚 **Journals** | 1 | 1 | Q1: 1 · *Results in Engineering* |
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=jf5Q8UgAAAAJ&hl=en).
+
+---
+
+## Tech Stack
+
+**Machine Learning & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Darts](https://img.shields.io/badge/Darts-Time--Series-1F5F5B?style=flat-square)
+
+**Simulation, Embedded & Tools**
+
+![SCAPS-1D](https://img.shields.io/badge/SCAPS--1D-Solar_Simulation-731212?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Contact
+
+📫 [nripendro4200@gmail.com](mailto:nripendro4200@gmail.com) · 🌐 [nripendrobiswas.github.io](https://nripendrobiswas.github.io/)
