@@ -23,8 +23,8 @@
     </p>
     <p>
       <strong>I am seeking a <b>funded graduate research position starting in 2027</b>, 
-      particularly in <u>`machine learning`, `time-series forecasting`, `healthcare and AI`, 
-      `computational energy systems`, or `AI-assisted materials and photovoltaic research`</u></strong>.
+      particularly in machine learning, time-series forecasting, healthcare and AI, 
+      computational energy systems, or AI-assisted materials and photovoltaic research </strong>.
     </p>
 
 - 🔭 I’m currently working on **a research project named GA-TiDE**
