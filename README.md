@@ -22,16 +22,13 @@
       parameter optimisation, performance evaluation, and ML-based prediction of photovoltaic characteristics.
     </p>
     
-```I am seeking a <b>funded graduate research position starting in 2027</b>, particularly in machine learning, time-series forecasting, healthcare and AI, computational energy systems, or AI-assisted materials and photovoltaic research . ```
+```I am seeking a funded graduate research position starting in 2027, particularly in machine learning, time-series forecasting, healthcare and AI, computational energy systems, or AI-assisted materials and photovoltaic research . ```
 
+## Notes
 - 🔭 I’m currently working on **a research project named GA-TiDE**
-
 - 🌱 I’m currently learning **PINN**
-
 - 👯 I’m looking to collaborate on **Research projetcs**
-
 - 👨‍💻 All of my projects are available at [nripendrobiswas.github.io](nripendrobiswas.github.io)
-
 - 📫 How to reach me **nripendro4200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
