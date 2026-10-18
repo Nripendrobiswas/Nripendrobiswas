@@ -1,24 +1,33 @@
-### Hi there 👋, I'm Nripendro Biswas
-![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/315896181_1451295635399664_8425650171317359104_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9534ce&_nc_ohc=--_nzkeLQIYAX_x5p62&_nc_ht=scontent.fdac138-1.fna&oh=00_AfB-5EwFrMJRkkUzWrmYFm-epndEsgv0baA0wwLEXTVatw&oe=65A60AB3)
-## Bio
-[//]: # (README made with https://gprm.itsvg.in/ and some customization, the svg is made by https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Nripendro Biswas</h1>
+<h3 align="center">Aspiring ML researcher and Engineering student.</h3>
 
-[//]: # (<meta name="google-site-verification" content="uvxi10l8J-97LmEIjcdHjehpRowt0oygUn6lnn8lfCc" />)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nripendrobiswas&label=Profile%20views&color=0e75b6&style=flat" alt="nripendrobiswas" /> </p>
 
-- 🔭 I’m currently working on three project:
-  * AQI prediction of Sylhet region using ML
-  * electricity demand prediction of Sylhet region using DL 
-  * Bengali Speech Emotion Recognitions using DL
-- 🌱 I’m currently learning Deep learning and ML 
-- 👯 I’m looking to collaborate on research / projects in Electronics, Machine Learing 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nripendrobiswas" alt="nripendrobiswas" /></a> </p>
 
-### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nien_bi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nripendrobiswas/) 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[//]: # (Make this better in the future)
+- 🔭 I’m currently working on **a research project named GA-TiDE**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nripendrobiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nripendrobiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nripendrobiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nripendro_biswas/)  
+- 🌱 I’m currently learning **PINN**
 
+- 👯 I’m looking to collaborate on **Research projetcs**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nripendrobiswas)  
+- 👨‍💻 All of my projects are available at [nripendrobiswas.github.io](nripendrobiswas.github.io)
 
+- 📫 How to reach me **nripendro4200@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nripendrobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nripendrobiswas" height="30" width="40" /></a>
+<a href="https://kaggle.com/nripendrobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nripendrobiswas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nripendrobiswas&show_icons=true&locale=en&layout=compact" alt="nripendrobiswas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nripendrobiswas&show_icons=true&locale=en" alt="nripendrobiswas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nripendrobiswas&" alt="nripendrobiswas" /></p>
