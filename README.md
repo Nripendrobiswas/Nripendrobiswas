@@ -1,18 +1,19 @@
-<!-- Top Header Structure with Adaptive Theme Icon in Right Corner -->
 <table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0; background: transparent;">
   <tr style="border: none; background: transparent;">
-    <td align="left" style="border: none; padding: 0; background: transparent;">
-      <h1 style="margin: 0;">Hi 👋, I'm Nripendro Biswas</h1>
+    <!-- Left Column: Title -->
+    <td align="left" style="border: none; padding: 0; background: transparent; vertical-align: middle;">
+      <h1 style="margin: 0; display: inline-block;">Hi 👋, I'm Nripendro Biswas</h1>
     </td>
+    <!-- Right Column: Theme Selector Icons -->
     <td align="right" style="border: none; padding: 0; background: transparent; vertical-align: middle;">
-      <!-- GitHub Theme Adaptive Icon -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://iconify.design">
-        <img src="https://iconify.design" width="32" height="32" alt="Theme Selector" style="max-width: 100%;">
-      </picture>
+      <!-- Sun icon shown ONLY in Dark Mode -->
+      <img src="https://iconify.design" width="32" height="32" alt="Dark Mode Active" style="vertical-align: middle; max-width: 100%;">
+      <!-- Moon icon shown ONLY in Light Mode -->
+      <img src="https://iconify.design" width="32" height="32" alt="Light Mode Active" style="vertical-align: middle; max-width: 100%;">
     </td>
   </tr>
 </table>
+
 
 <h3 align="center">Aspiring ML researcher and Engineering student.</h3>
 
