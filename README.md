@@ -21,7 +21,7 @@
       On the photovoltaic side, I work with multilayer perovskite device structures, 
       parameter optimisation, performance evaluation, and ML-based prediction of photovoltaic characteristics.
     </p>
-> <strong>I am seeking a <b>funded graduate research position starting in 2027</b>, particularly in machine learning, time-series forecasting, healthcare and AI, computational energy systems, or AI-assisted materials and photovoltaic research </strong>.
+``` <strong>I am seeking a <b>funded graduate research position starting in 2027</b>, particularly in machine learning, time-series forecasting, healthcare and AI, computational energy systems, or AI-assisted materials and photovoltaic research </strong>. ```
 
 - 🔭 I’m currently working on **a research project named GA-TiDE**
 
